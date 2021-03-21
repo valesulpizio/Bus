@@ -1,61 +1,53 @@
 trial_id;trial_type;trial_code;SM_velocity;OM_velocity;Condition_name;onset;duration;ITI_duration
-1;S0O0';'S0O0';0;0;'static';0;3;0.8
-1;S0O0';'S0O0';0;0;'static';3.8;3;3.4
-5;S30O0';'S30O0';30;0;'self-motion only';10.2;3;4.1
-4;S0O90';'S0O90';0;90;'object-motion only';17.3;3;1.7
-14;S90O120';'S90O120';90;120;'faster';22;3;5.2
-14;S90O120';'S90O120';90;120;'faster';30.2;3;1.7
-6;S30O30';'S30O30';30;30;'retinal null';34.9;3;5.2
-10;S60O90';'S60O90';60;90;'faster';43.1;3;1.9
-7;S60O0';'S60O0';60;0;'self-motion only';48;3;1.5
-13;S90O90';'S90O90';90;90;'retinal null';52.5;3;1.2
-11;S90O0';'S90O0';90;0;'self-motion only';56.7;3;4.3
-12;S90O60';'S90O60';90;60;'slower';64;3;0.6
-3;S0O60';'S0O60';0;60;'object-motion only';67.6;3;3.7
-8;S60O30';'S60O30';60;30;'slower';74.3;3;1
-9;S60O60';'S60O60';60;60;'retinal null';78.3;3;4.3
-8;S60O30';'S60O30';60;30;'slower';85.6;3;3.6
-4;S0O90';'S0O90';0;90;'object-motion only';92.2;3;2.9
-1;S0O0';'S0O0';0;0;'static';98.1;3;3.1
-7;S60O0';'S60O0';60;0;'self-motion only';104.2;3;3.3
-9;S60O60';'S60O60';60;60;'retinal null';110.5;3;0.5
-4;S0O90';'S0O90';0;90;'object-motion only';114;3;4.7
-7;S60O0';'S60O0';60;0;'self-motion only';121.7;3;2.9
-5;S30O0';'S30O0';30;0;'self-motion only';127.6;3;1
-10;S60O90';'S60O90';60;90;'faster';131.6;3;5
-2;S0O30';'S0O30';0;30;'object-motion only';139.6;3;1.2
-10;S60O90';'S60O90';60;90;'faster';143.8;3;5.6
-14;S90O120';'S90O120';90;120;'faster';152.4;3;6.5
-12;S90O60';'S90O60';90;60;'slower';161.9;3;2.3
-14;S90O120';'S90O120';90;120;'faster';167.2;3;3.7
-15;domanda';"'domanda		yes'";domanda;;;173.9;3;3.5
-1;S0O0';'S0O0';0;0;'static';180.4;3;7.6
-10;S60O90';'S60O90';60;90;'faster';191;3;0.6
-9;S60O60';'S60O60';60;60;'retinal null';194.6;3;5.1
-15;domanda';"'domanda		no'";domanda;;;202.7;3;0.5
-5;S30O0';'S30O0';30;0;'self-motion only';206.2;3;5.4
-11;S90O0';'S90O0';90;0;'self-motion only';214.6;3;2
-7;S60O0';'S60O0';60;0;'self-motion only';219.6;3;2.8
-11;S90O0';'S90O0';90;0;'self-motion only';225.4;3;4.6
-3;S0O60';'S0O60';0;60;'object-motion only';233;3;0.7
-4;S0O90';'S0O90';0;90;'object-motion only';236.7;3;0.6
-13;S90O90';'S90O90';90;90;'retinal null';240.3;3;0.6
-6;S30O30';'S30O30';30;30;'retinal null';243.9;3;2.7
-5;S30O0';'S30O0';30;0;'self-motion only';249.6;3;3.5
-2;S0O30';'S0O30';0;30;'object-motion only';256.1;3;3
-6;S30O30';'S30O30';30;30;'retinal null';262.1;3;0.8
-2;S0O30';'S0O30';0;30;'object-motion only';265.9;3;5.3
-13;S90O90';'S90O90';90;90;'retinal null';274.2;3;7.5
-12;S90O60';'S90O60';90;60;'slower';284.7;3;2.4
-2;S0O30';'S0O30';0;30;'object-motion only';290.1;3;1.1
-11;S90O0';'S90O0';90;0;'self-motion only';294.2;3;6.6
-8;S60O30';'S60O30';60;30;'slower';303.8;3;2.4
-15;domanda';"'domanda		yes'";domanda;;;309.2;3;4.5
-12;S90O60';'S90O60';90;60;'slower';316.7;3;5.3
-8;S60O30';'S60O30';60;30;'slower';325;3;1.2
-13;S90O90';'S90O90';90;90;'retinal null';329.2;3;1.7
-3;S0O60';'S0O60';0;60;'object-motion only';333.9;3;2.7
-9;S60O60';'S60O60';60;60;'retinal null';339.6;3;3
-6;S30O30';'S30O30';30;30;'retinal null';345.6;3;0.6
-15;domanda';"'domanda		no'";domanda;;;349.2;3;0.5
-3;S0O60';'S0O60';0;60;'object-motion only';352.7;3;0
+5;S30O0';'S30O0';30;0;'self-motion only';0;3;1
+4;S0O90';'S0O90';0;90;'object-motion only';3,5;3;1
+14;S90O120';'S90O120';90;120;'faster';7;3;1
+14;S90O120';'S90O120';90;120;'faster';10,5;3;1
+6;S30O30';'S30O30';30;30;'retinal null';14;3;1
+10;S60O90';'S60O90';60;90;'faster';17,5;3;1
+7;S60O0';'S60O0';60;0;'self-motion only';21;3;1
+13;S90O90';'S90O90';90;90;'retinal null';24,5;3;1
+11;S90O0';'S90O0';90;0;'self-motion only';28;3;1
+12;S90O60';'S90O60';90;60;'slower';31,5;3;1
+3;S0O60';'S0O60';0;60;'object-motion only';35;3;1
+8;S60O30';'S60O30';60;30;'slower';38,5;3;1
+9;S60O60';'S60O60';60;60;'retinal null';42;3;1
+8;S60O30';'S60O30';60;30;'slower';45,5;3;1
+4;S0O90';'S0O90';0;90;'object-motion only';49;3;1
+7;S60O0';'S60O0';60;0;'self-motion only';52,5;3;1
+9;S60O60';'S60O60';60;60;'retinal null';56;3;1
+4;S0O90';'S0O90';0;90;'object-motion only';59,5;3;1
+7;S60O0';'S60O0';60;0;'self-motion only';63;3;1
+5;S30O0';'S30O0';30;0;'self-motion only';66,5;3;1
+10;S60O90';'S60O90';60;90;'faster';70;3;1
+2;S0O30';'S0O30';0;30;'object-motion only';73,5;3;1
+10;S60O90';'S60O90';60;90;'faster';77;3;1
+14;S90O120';'S90O120';90;120;'faster';80,5;3;1
+12;S90O60';'S90O60';90;60;'slower';84;3;1
+14;S90O120';'S90O120';90;120;'faster';87,5;3;1
+10;S60O90';'S60O90';60;90;'faster';91;3;1
+9;S60O60';'S60O60';60;60;'retinal null';94,5;3;1
+5;S30O0';'S30O0';30;0;'self-motion only';98;3;1
+11;S90O0';'S90O0';90;0;'self-motion only';101,5;3;1
+7;S60O0';'S60O0';60;0;'self-motion only';105;3;1
+11;S90O0';'S90O0';90;0;'self-motion only';108,5;3;1
+3;S0O60';'S0O60';0;60;'object-motion only';112;3;1
+4;S0O90';'S0O90';0;90;'object-motion only';115,5;3;1
+13;S90O90';'S90O90';90;90;'retinal null';119;3;1
+6;S30O30';'S30O30';30;30;'retinal null';122,5;3;1
+5;S30O0';'S30O0';30;0;'self-motion only';126;3;1
+2;S0O30';'S0O30';0;30;'object-motion only';129,5;3;1
+6;S30O30';'S30O30';30;30;'retinal null';133;3;1
+2;S0O30';'S0O30';0;30;'object-motion only';136,5;3;1
+13;S90O90';'S90O90';90;90;'retinal null';140;3;1
+12;S90O60';'S90O60';90;60;'slower';143,5;3;1
+2;S0O30';'S0O30';0;30;'object-motion only';147;3;1
+11;S90O0';'S90O0';90;0;'self-motion only';150,5;3;1
+8;S60O30';'S60O30';60;30;'slower';154;3;1
+12;S90O60';'S90O60';90;60;'slower';157,5;3;1
+8;S60O30';'S60O30';60;30;'slower';161;3;1
+13;S90O90';'S90O90';90;90;'retinal null';164,5;3;1
+3;S0O60';'S0O60';0;60;'object-motion only';168;3;1
+9;S60O60';'S60O60';60;60;'retinal null';171,5;3;1
+6;S30O30';'S30O30';30;30;'retinal null';175;3;1
+3;S0O60';'S0O60';0;60;'object-motion only';178,5;3;1
