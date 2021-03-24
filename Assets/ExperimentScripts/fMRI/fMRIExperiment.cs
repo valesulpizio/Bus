@@ -80,7 +80,7 @@ public class fMRIExperiment : Experiment<fMRITrial>
         // Stop camera and bus, hide bus
         BusLineRigidBody.velocity = new Vector3(0, 0, 0);
         cameraRigidBody.velocity = new Vector3(0, 0, 0);
-        BusLine.SetActive(false);
+        BusLine.SetActive(true);
        
         // Save current time
         currentTrial.EndTime = Time.time;
