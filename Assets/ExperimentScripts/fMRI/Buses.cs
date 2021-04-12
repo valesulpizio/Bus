@@ -10,7 +10,7 @@ public class Buses : Experiment<Buses_trial>
     public float MinInterTrialTime = 0.5f;
 
     [Tooltip("Maximum interval between two consecutive trials.")]
-    public float MaxInterTrialTime = 0.5f; //5.0f
+    public float MaxInterTrialTime = 5f; //5f
 
     [Tooltip("Position of the camera at the beginning of the trial.")]
     public float InitialX_CameraPosition = 0f;

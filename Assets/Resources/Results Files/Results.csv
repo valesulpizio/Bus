@@ -1887,3 +1887,146 @@ Index	tBreak	SM_velocity	OM_velocity	onset	duration	ITI_duration	StartTime	Chang
 3	Break	SM_velocity	OM_velocity	onset	duration	ITI_duration	8.319455	0	0	0	False
 4	Break	SM_velocity	OM_velocity	onset	duration	ITI_duration	12.21622	0	4	15.31623	True
 
+Index	Break	SM_velocity	OM_velocity	duration	ITI_duration	StartTime	ChangeTime	Response	ResponseTime	Valid
+1	Break	SM_velocity	OM_velocity	duration	ITI_duration	0.9521419	0	0	0	False
+2	Break	SM_velocity	OM_velocity	duration	ITI_duration	4.806161	0	0	0	False
+3	Break	SM_velocity	OM_velocity	duration	ITI_duration	8.573869	0	4	8.946391	True
+
+Index	Break	SM_velocity	OM_velocity	duration	ITI_duration	StartTime	ChangeTime	Response	ResponseTime	Valid
+1	Break	SM_velocity	OM_velocity	duration	ITI_duration	1.749124	0	0	0	False
+2	Break	SM_velocity	OM_velocity	duration	ITI_duration	5.639971	0	4	9.054668	True
+3	Break	SM_velocity	OM_velocity	duration	ITI_duration	9.420482	0	0	0	False
+4	Break	SM_velocity	OM_velocity	duration	ITI_duration	13.22454	0	0	0	False
+5	Break	SM_velocity	OM_velocity	duration	ITI_duration	17.04689	0	4	17.74169	True
+6	Break	SM_velocity	OM_velocity	duration	ITI_duration	20.90764	0	0	0	False
+7	Break	SM_velocity	OM_velocity	duration	ITI_duration	24.76138	0	4	25.44891	True
+
+Index	Break	SM_velocity	OM_velocity	duration	ITI_duration	StartTime	ChangeTime	Response	ResponseTime	Valid
+1	0	-100	-98	3	0.5	4.824316	0	0	0	False
+2	0	100	98.25	3	0.5	8.639151	0	0	0	False
+3	1	40	40.5	3	0.5	12.40267	0	0	0	False
+4	0	-60	-60.75	3	0.5	16.19375	0	0	0	False
+5	0	-80	-79.5	3	0.5	19.99947	0	0	0	False
+6	0	-100	-100.75	3	0.5	23.83852	0	0	0	False
+
+Index	Break	SM_velocity	OM_velocity	duration	ITI_duration	StartTime	ChangeTime	Response	ResponseTime	Valid
+1	0	-100	-98	3	0.5	0.240227	0	0	0	False
+2	0	100	98.25	3	0.5	4.104884	0	0	0	False
+3	1	40	40.5	3	0.5	7.897417	0	0	0	False
+
+Index	Break	SM_velocity	OM_velocity	duration	ITI_duration	StartTime	ChangeTime	Response	ResponseTime	Valid
+1	0	100	98.25	3	0.5	1.673347	0	0	0	False
+2	1	40	40.5	3	0.5	5.471497	0	0	0	False
+
+Index	Break	SM_velocity	OM_velocity	duration	StartTime	ChangeTime	Response	ResponseTime	Valid
+1	100	98.25	3	0.6769511	0	0	0	False
+2	40	40.5	3	4.496925	0	0	0	False
+3	-60	-60.75	3	8.315101	0	0	0	False
+4	-80	-79.5	3	12.13937	0	0	0	False
+
+Index	Break	SM_velocity	OM_velocity	duration	StartTime	ChangeTime	Response	ResponseTime	Valid
+1	-100	-98	3	0.438433	0	0	0	False
+2	100	98.25	3	4.247598	0	0	0	False
+3	40	40.5	3	8.024165	0	0	0	False
+4	-60	-60.75	3	11.83523	0	0	0	False
+5	-80	-79.5	3	15.66923	0	0	0	False
+6	-100	-100.75	3	19.51245	0	4	23.38075	True
+7	40	41.75	3	23.38075	0	0	0	False
+8	-100	-97.75	3	27.22832	0	0	0	False
+9	80	82.25	3	31.02025	0	4	31.61573	True
+10	-100	-99	3	34.88943	0	0	0	False
+11	-60	-58.25	3	38.68851	0	4	39.2856	True
+12	60	57.5	3	42.54165	0	0	0	False
+13	-20	-22.25	3	46.34618	0	0	0	False
+14	-20	-20.25	3	50.22229	0	4	50.52229	True
+15	80	80	3	54.11278	0	4	55.69901	True
+16	-40	-42	3	57.9069	0	0	0	False
+
+Index	Break	SM_velocity	OM_velocity	duration	StartTime	ChangeTime	Response	ResponseTime	Valid
+1	-100	-98	3	2.73593	0	3	4.03916	True
+2	100	98.25	3	6.605233	0	4	7.958907	True
+
+Index	Break	SM_velocity	OM_velocity	duration	StartTime	ChangeTime	Response	ResponseTime	Valid
+1	-100	-98	3	1.307953	0	4	3.785881	True
+2	100	98.25	3	5.161019	0	3	8.014394	True
+3	40	40.5	3	8.935333	0	4	11.42728	True
+4	-60	-60.75	3	12.74181	0	0	0	False
+5	-80	-79.5	3	16.56253	0	3	16.75836	True
+6	-100	-100.75	3	20.40322	0	0	0	False
+
+Index	Break	SM_velocity	OM_velocity	duration	StartTime	ChangeTime	Response	ResponseTime	Valid
+1	-100	-98	3	8.820775	0	0	0	False
+2	100	98.25	3	12.55392	0	0	0	False
+3	40	40.5	3	16.40347	0	0	0	False
+4	-60	-60.75	3	20.17365	0	0	0	False
+5	-80	-79.5	3	23.89801	0	0	0	False
+
+Index	Break	SM_velocity	OM_velocity	duration	StartTime	ChangeTime	Response	ResponseTime	Valid
+1	-100	-98	3	5.454258	0	0	0	False
+2	100	98.25	3	12.29608	0	0	0	False
+3	40	40.5	3	19.21874	0	0	0	False
+
+Index	Break	SM_velocity	OM_velocity	duration	StartTime	ChangeTime	Response	ResponseTime	Valid
+1	-100	-98	3	3.299081	0	0	0	False
+2	100	98.25	3	10.10668	0	0	0	False
+
+Index	Break	SM_velocity	OM_velocity	duration	StartTime	ChangeTime	Response	ResponseTime	Valid
+1	-100	-98	3	4.10881	0	0	0	False
+2	100	98.25	3	10.99523	0	0	0	False
+3	40	40.5	3	17.94994	0	0	0	False
+4	-60	-60.75	3	24.73445	0	4	22.97223	True
+
+Index	Break	SM_velocity	OM_velocity	duration	StartTime	ChangeTime	Response	ResponseTime	Valid
+1	-100	-98	3	0.172189	0	0	0	False
+2	100	98.25	3	4.000416	0	0	0	False
+3	40	40.5	3	7.771546	0	0	0	False
+4	-60	-60.75	3	11.59839	0	0	0	False
+5	-80	-79.5	3	15.41264	0	0	0	False
+6	-100	-100.75	3	19.28306	0	0	0	False
+
+Index	Break	SM_velocity	OM_velocity	duration	StartTime	ChangeTime	Response	ResponseTime	Valid
+1	-100	-98	3	0.16067	0	0	0	False
+2	100	98.25	3	3.948993	0	0	0	False
+3	40	40.5	3	7.791287	0	0	0	False
+4	-60	-60.75	3	11.648	0	0	0	False
+5	-80	-79.5	3	15.46071	0	0	0	False
+6	-100	-100.75	3	19.24369	0	0	0	False
+7	40	41.75	3	23.04921	0	0	0	False
+
+Index	Break	SM_velocity	OM_velocity	duration	StartTime	ChangeTime	Response	ResponseTime	Valid
+1	-100	-98	3	0.890105	0	0	0	False
+2	100	98.25	3	4.607441	0	0	0	False
+3	40	40.5	3	8.441147	0	4	8.641148	True
+4	-60	-60.75	3	12.20705	0	4	12.99124	True
+5	-80	-79.5	3	15.89505	0	4	16.95863	True
+6	-100	-100.75	3	19.75395	0	4	21.05309	True
+7	40	41.75	3	23.45672	0	4	24.28905	True
+8	-100	-97.75	3	27.12663	0	4	30.31765	True
+9	80	82.25	3	30.96022	0	4	33.70434	True
+10	-100	-99	3	34.73635	0	4	37.11507	True
+
+Index	Break	SM_velocity	OM_velocity	duration	StartTime	ChangeTime	Response	ResponseTime	Valid
+1	-100	-98	3	4.2627	0	0	0	False
+2	100	98.25	3	11.10477	0	4	11.68854	True
+3	40	40.5	3	17.82694	0	0	0	False
+
+Index	Break	SM_velocity	OM_velocity	duration	StartTime	ChangeTime	Response	ResponseTime	Valid
+1	-100	-98	3	0.668375	0	0	0	False
+2	100	98.25	3	4.553083	0	4	6.121132	True
+3	40	40.5	3	8.355414	0	0	0	False
+4	-60	-60.75	3	12.18352	0	0	0	False
+5	-80	-79.5	3	16.06007	0	0	0	False
+6	-100	-100.75	3	19.91047	0	0	0	False
+7	40	41.75	3	23.6835	0	4	26.81652	True
+8	-100	-97.75	3	27.49861	0	0	0	False
+9	80	82.25	3	31.31928	0	0	0	False
+10	-100	-99	3	35.16746	0	0	0	False
+
+Index	Break	SM_velocity	OM_velocity	duration	StartTime	ChangeTime	Response	ResponseTime	Valid
+1	-100	-98	3	0.9654099	0	4	4.648353	True
+2	100	98.25	3	4.748353	0	0	0	False
+3	40	40.5	3	8.537829	0	-1	11.96025	True
+4	-60	-60.75	3	12.36025	0	4	14.92971	True
+5	-80	-79.5	3	16.10607	0	-1	19.27818	True
+6	-100	-100.75	3	19.96202	0	0	0	False
+
